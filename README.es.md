@@ -27,6 +27,14 @@ Para descargar AutoIt lo primero que debemos hacer es ir a su pagina oficial [ww
 
 ![image](https://user-images.githubusercontent.com/91817247/135742752-2a2e4241-013e-4b1e-abe6-af3fe49f7c49.png)
 
+Una vez finalizada la descarga debemos ejecutar el archivo .exe que se descargo, nos habrira el asistente de instalacion de AutoIt en el cual daremos clic en "Next"
+
+![image](https://user-images.githubusercontent.com/91817247/135743080-2ae56d4c-b105-450b-827e-0146c3cfa1c7.png)
+
+Damos clic en "I Agree" para aceptar el acuerdo de licencia(El cual estoy seguro que leeras antes) de AutoIt
+
+![image](https://user-images.githubusercontent.com/91817247/135743161-4c856086-e1aa-4bf7-94e9-039cafecea01.png)
+
 
 ## Descarga del BOT
 
