@@ -25,7 +25,7 @@ AutoIt es una herramienta que permite automatizar tareas repetititvas de manera 
 ## Descarga e instalacion de AutoIt
 
 
-## Descarga del BOT :dow
+## Descarga del BOT
 
 ## Configuracion del BOT
 
@@ -39,7 +39,7 @@ Lamentablemente AutoIt solo esta disponible para plataformas windows pero actual
 ## Agradecimientos
 Por favor comparte y deja tu estrella ⭐
 
-Si te parecio util invitame una cerveza 🍺 y una pizza 🍕 , aqui te dejo mi direccion de ethereum : 0xb3351B9f0A06CF1E847DD6d5c9aE527182763d40
+Si te parecio util invitame una cerveza 🍺 y una pizza 🍕 , aqui te dejo mi direccion de ethereum : **0xb3351B9f0A06CF1E847DD6d5c9aE527182763d40**
 
 O bien puedes adquirir algunos de mis NFTs en OpenSea o envirme algunos, mi perfil es [TxominArt](https://opensea.io/TxominArt) Y mis colecciones son:
 
