@@ -23,7 +23,7 @@ SimpleOpenSeaBot es un bot para publicar colecciones masivas en OpenSea, el bot 
 AutoIt es una herramienta que permite automatizar tareas repetititvas de manera simple con muy pocas lineas de codigo. Lamentablemente AutoIt solo esta disponible para el sistema operativo windows pero actualmente estoy trabajando en una version de python que funcione sobre cualquier sistema operativo, mantente al pendiente de mis redes sociales, las cuales te dejo mas abajo 👇, para enterarte sobre cuando estara disponible.
 
 ## Descarga e instalacion de AutoIt
-Para descargar AutoIt lo primero que debemos hacer es ir a su pagina oficial [www.https://www.autoitscript.com/](https://www.autoitscript.com/site/autoit/downloads/) a la seccion de descargas. Bajaremos hasta localizar la siguiente seccion en la cual daremos clic sobre el boton "Download Autoit"
+Para descargar AutoIt lo primero que debemos hacer es ir a su pagina oficial [www.https://www.autoitscript.com/](https://www.autoitscript.com/site/autoit/downloads/) a la seccion de descargas. Bajaremos hasta localizar la siguiente seccion en la cual daremos clic sobre el boton "Download Autoit" localizado a la derecha
 ![image](https://user-images.githubusercontent.com/91817247/135742495-6bc7d440-8a52-4df9-8864-f649a12cdafa.png)
 
 
