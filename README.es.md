@@ -59,7 +59,9 @@ Una vez llena la barra nos mostrara la siguiente ventana, en mi caso desmarcare 
 
 ![image](https://user-images.githubusercontent.com/91817247/135757812-e8a48b6f-d32f-4bb1-91e1-b27d7ed8c64d.png)
 
-Por fin la instalacion de AutoIt esta completa
+Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro menu de inicio encontramos tres iconos de AutoIt, el primero nos permitira crear o editar scripts, en cuanto al segundo y al tercero nos permitiran ejecutar scripts ya sea en entornos de 32 bits o de 64 bits respectivamente segun sea el caso de nuestra PC🖥️
+
+![image](https://user-images.githubusercontent.com/91817247/135759150-e7395dd8-33ad-42e6-a065-2f19ddc670e6.png)
 
 ## Descarga del BOT
 
