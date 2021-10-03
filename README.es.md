@@ -9,8 +9,9 @@ Un simple bot de OpenSea creado con AutoIt para crear colecciones masivas de NFT
   ###### Descarga del BOT
   ###### Configuracion del BOT
 
-## Descripcion del BOT
-## Descripcion de AutoIt
+## Descripcion del BOT y AutoIt
 ## Descarga e instalacion de AutoIt
 ## Descarga del BOT
 ## Configuracion del BOT
+## Ejecucion del BOT
+## Notas adicionales
