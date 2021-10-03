@@ -25,7 +25,7 @@ AutoIt es una herramienta que permite automatizar tareas repetititvas de manera 
 ## Descarga e instalacion de AutoIt
 Para descargar AutoIt lo primero que debemos hacer es ir a su pagina oficial [www.https://www.autoitscript.com/](https://www.autoitscript.com/site/autoit/downloads/) a la seccion de descargas. Bajaremos hasta localizar la siguiente seccion llamada "AutoIt Full Installation" en la cual daremos clic sobre el boton "Download Autoit" localizado a la derecha
 
-![image](https://user-images.githubusercontent.com/91817247/135742713-6147d0d5-198f-4697-81a8-48556a61cc92.png)
+![image](https://user-images.githubusercontent.com/91817247/135742752-2a2e4241-013e-4b1e-abe6-af3fe49f7c49.png)
 
 
 ## Descarga del BOT
