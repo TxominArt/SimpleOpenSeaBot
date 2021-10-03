@@ -74,7 +74,11 @@ Abriremos "Paint" o cualquier otro software que nos indique las coordenas dentro
 
 La posicion de los botons va a depender del tamaño de nuestra pantalla, del navegador que usemos, si es visible o no la barra de marcadores o la barra de tareas, por lo cual tus posiciones pueden variar a las mias, por lo que este proceso es muy particular de cada usuario.
 
-Para poder hacer hacer esto debemos tomar una captura de pantalla de opensea asegurandonos que el boton que deseamos configurar este visible, en este primer caso configuraremos el boton "Add Item" de la coleccion, debemos pegar la captura de pnatalla dentro de paint y seleccionar la herramienta "Lapiz", esta herramiento nos mostrara las coordenas en pixeles en la esquina inferior izquierda de Paint, debemos poscionar el cursor sobre el boton a configurar, en mi caso el centro del boton se encuantra en [1267,173] pixeles, 
+Para poder hacer hacer esto debemos tomar una captura de pantalla de opensea asegurandonos que el boton que deseamos configurar este visible, en este primer caso configuraremos el boton "Add Item" de la coleccion, debemos pegar la captura de pnatalla dentro de paint y seleccionar la herramienta "Lapiz", esta herramiento nos mostrara las coordenas en pixeles en la esquina inferior izquierda de Paint, debemos poscionar el cursor sobre el boton a configurar, en mi caso el centro del boton se encuantra en [1267,173] pixeles.
+
+![image](https://user-images.githubusercontent.com/91817247/135761329-cbfedc0e-69f1-4b99-9dbf-06b2f5365184.png)
+
+
 
 ## Ejecucion del BOT
 
