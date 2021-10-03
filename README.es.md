@@ -4,12 +4,18 @@ Un simple bot de OpenSea creado con AutoIt para crear colecciones masivas de NFT
 
 ## Indice
   Descripcion del BOT y AutoIt
+  
   Descarga e instalacion de AutoIt
+  
   Descarga del BOT
+  
   Configuracion del BOT
+  
   Ejeucion del BOT
+  
   Notas Adicionales
-  [Agradecimientos](Agradecimientos)
+  
+  Agradecimientos
 
 ## Descripcion del BOT y AutoIt
 SimpleOpenSeaBot es un bot para publicar colecciones masivas en OpenSea, el bot esta desarrollado en AutoIt. El bot permite acuñar y listar NFTs en OpenSea de manera automatica.
