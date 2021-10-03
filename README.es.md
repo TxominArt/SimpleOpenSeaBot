@@ -78,6 +78,17 @@ Para poder hacer hacer esto debemos tomar una captura de pantalla de opensea ase
 
 ![image](https://user-images.githubusercontent.com/91817247/135761329-cbfedc0e-69f1-4b99-9dbf-06b2f5365184.png)
 
+Otro boton que debemos de configurar es el "Upload file", lo haremos de la misma manera que el boton de "Add Item".
+
+![image](https://user-images.githubusercontent.com/91817247/135765306-32f08b93-d67b-4717-9a17-8023afe3e693.png)
+
+Estas coordenadas deberan ser introducidas en el script del bot, las instrucciones que debemos modificar son relacionadas con el manejo del cursor.
+Para esto debemos abrir SciTE Script Editor y abrir el script del bot.
+
+Una vez dentro la intrucciona a modificar sera la siguiente.
+
+![image](https://user-images.githubusercontent.com/91817247/135765448-0087d935-7548-494e-a0f8-d0f4546636f8.png)
+
 
 
 ## Ejecucion del BOT
