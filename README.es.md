@@ -18,7 +18,7 @@ Un simple bot de OpenSea creado con AutoIt para crear colecciones masivas de NFT
   Agradecimientos
 
 ## Descripcion del BOT y AutoIt
-SimpleOpenSeaBot es un bot para publicar colecciones masivas en OpenSea, el bot esta desarrollado en AutoIt. El bot permite acuñar y listar NFTs en OpenSea de manera automatica.
+SimpleOpenSeaBot es un bot para publicar colecciones masivas en OpenSea, el bot esta desarrollado como un script en AutoIt. El bot permite acuñar y listar NFTs en OpenSea de manera automatica.
 
 AutoIt es una herramienta que permite automatizar tareas repetititvas de manera simple con muy pocas lineas de codigo. Lamentablemente AutoIt solo esta disponible para el sistema operativo windows pero actualmente estoy trabajando en una version de python que funcione sobre cualquier sistema operativo, mantente al pendiente de mis redes sociales, las cuales te dejo mas abajo 👇, para enterarte sobre cuando estara disponible.
 
@@ -35,7 +35,11 @@ Damos clic en "I Agree" para aceptar el acuerdo de licencia(El cual estoy seguro
 
 ![image](https://user-images.githubusercontent.com/91817247/135743161-4c856086-e1aa-4bf7-94e9-039cafecea01.png)
 
+En la siguinte ventana damos clic en "Next"
+
 ![image](https://user-images.githubusercontent.com/91817247/135757617-8ac6245e-270b-43e9-be24-770370c74ca4.png)
+
+En esta ventana seleccionaremos que queremos que suceda cuando damos doble clic en un scrpt de AutoIt, ya sea que se ejecute o que se habra para editar, en mi caso deseo que ocura lo segundo por lo tanto seleccionare la segynda opcion "Edit the script" y dare clic en "Next"
 
 ![image](https://user-images.githubusercontent.com/91817247/135757682-fc4384c5-c5cd-4993-95e0-b9e48e8c52d8.png)
 
