@@ -56,6 +56,8 @@ O bien puedes adquirir algunos de mis NFTs en OpenSea o envirme algunos, mi perf
 
 Sientete libre de hacer una oferta por el NFT que mas te guste.
 
+Tambien puedes apoyarme adquiriendo el [NFT de este BOT en OpenSea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81057833425676745311725378463755140867922759158574626972484691336700096413697)
+
 Tambien te dejo mis redes sociales:
 
 [Twitter](https://twitter.com/_TxominArt_)
