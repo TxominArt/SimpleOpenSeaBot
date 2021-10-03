@@ -66,6 +66,13 @@ Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro men
 ## Descarga del BOT
 
 ## Configuracion del BOT
+Lo primero que haremos es ir a la coleccion en la cual deseamos subir los NFTs
+
+![image](https://user-images.githubusercontent.com/91817247/135760300-f50c5020-0eca-4c50-beca-db25111b0659.png)
+
+Abriremos "Paint" o cualquier otro software que nos indique las coordenas dentro de una imagen, ¿Para que? el bot necesita mover el cursor para hacer clic en todos los botones a lo largo de la acuñacion y enlistado de los NFTs, y son unos cuantos.
+La posicion de los botons va a depender del tamaño de nuestra pantalla, del navegador que usemos, si es visible o no la barra de marcadores o la barra de tareas, por lo cual tus posiciones pueden variar a las mias, por lo que este proceso es muy particular de cada usuario.
+Para poder hacer hacer esto debemos tomar una captura de pantalla de opensea asegurandonos que el boton que deseamos configurar este visible, en este primer caso configuraremos el boton "Add Item" de la coleccion, debemos pegar la captura de pnatalla dentro de paint y seleccionar la herramienta "Lapiz", esta herramiento nos mostrara las coordenas en pixeles en la esquina inferior izquierda de Paint, debemos poscionar el cursor sobre el boton a configurar, en mi caso el centro del boton se encuantra en [1267,173] pixeles, 
 
 ## Ejecucion del BOT
 
