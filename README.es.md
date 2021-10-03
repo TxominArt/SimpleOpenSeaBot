@@ -87,7 +87,7 @@ Para esto debemos abrir SciTE Script Editor y abrir el script del bot.
 
 Una vez dentro la intrucciona a modificar sera la siguiente.
 
-![image](https://user-images.githubusercontent.com/91817247/135765448-0087d935-7548-494e-a0f8-d0f4546636f8.png)
+![image](https://user-images.githubusercontent.com/91817247/135765485-f600a319-778f-41fe-bdb9-00b987518eb9.png)
 
 
 
