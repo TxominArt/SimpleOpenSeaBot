@@ -39,18 +39,27 @@ En la siguinte ventana damos clic en "Next"
 
 ![image](https://user-images.githubusercontent.com/91817247/135757617-8ac6245e-270b-43e9-be24-770370c74ca4.png)
 
-En esta ventana seleccionaremos que queremos que suceda cuando damos doble clic en un scrpt de AutoIt, ya sea que se ejecute o que se habra para editar, en mi caso deseo que ocura lo segundo por lo tanto seleccionare la segynda opcion "Edit the script" y dare clic en "Next"
+En esta ventana seleccionaremos que queremos que suceda cuando damos doble clic en un scrpt de AutoIt, ya sea que se ejecute o que se abra para editar, en mi caso deseo que ocura lo segundo por lo tanto seleccionare la segynda opcion "Edit the script" y dare clic en "Next"
 
 ![image](https://user-images.githubusercontent.com/91817247/135757682-fc4384c5-c5cd-4993-95e0-b9e48e8c52d8.png)
 
+Aqui dejaremos seleccionada por defecto la intallacion completa o "Full" y daremos clic en "Next"
+
 ![image](https://user-images.githubusercontent.com/91817247/135757719-22b3be06-ea35-4a39-a25a-62aaef1c9711.png)
+
+Seleccionamos el lugar donde donde queremos que se instale AutoIt, en mi caso lo dejare por defecto, daremos clic en "Next"
 
 ![image](https://user-images.githubusercontent.com/91817247/135757738-cc5e0459-eea3-4dfc-b212-69ff8f486f0f.png)
 
+En esta ventana comenzara la instalacion de AutoIt, una barra verdenos mostrara el progreso, debemos esperar a que la barra se llene por completo para que la instalacion termine
+
 ![image](https://user-images.githubusercontent.com/91817247/135757770-18550a37-857a-4243-82c5-9f44c1734ce2.png)
+
+Una vez llena la barra nos mostrara la siguiente ventana, en mi caso desmarcare la casilla "Show update notes" ya que no deseo ver las notas de la nueva version, daremos clic en "Finish"
 
 ![image](https://user-images.githubusercontent.com/91817247/135757812-e8a48b6f-d32f-4bb1-91e1-b27d7ed8c64d.png)
 
+Por fin la instalacion de AutoIt esta completa
 
 ## Descarga del BOT
 
