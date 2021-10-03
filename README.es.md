@@ -35,6 +35,18 @@ Damos clic en "I Agree" para aceptar el acuerdo de licencia(El cual estoy seguro
 
 ![image](https://user-images.githubusercontent.com/91817247/135743161-4c856086-e1aa-4bf7-94e9-039cafecea01.png)
 
+![image](https://user-images.githubusercontent.com/91817247/135757617-8ac6245e-270b-43e9-be24-770370c74ca4.png)
+
+![image](https://user-images.githubusercontent.com/91817247/135757682-fc4384c5-c5cd-4993-95e0-b9e48e8c52d8.png)
+
+![image](https://user-images.githubusercontent.com/91817247/135757719-22b3be06-ea35-4a39-a25a-62aaef1c9711.png)
+
+![image](https://user-images.githubusercontent.com/91817247/135757738-cc5e0459-eea3-4dfc-b212-69ff8f486f0f.png)
+
+![image](https://user-images.githubusercontent.com/91817247/135757770-18550a37-857a-4243-82c5-9f44c1734ce2.png)
+
+![image](https://user-images.githubusercontent.com/91817247/135757812-e8a48b6f-d32f-4bb1-91e1-b27d7ed8c64d.png)
+
 
 ## Descarga del BOT
 
