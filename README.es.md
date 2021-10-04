@@ -66,7 +66,9 @@ Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro men
 ## Descarga del BOT
 
 ## Configuracion del BOT
-###### Las instrucciones de AutoIt que utilizaremos para configurar el BOT son las siguientes:
+Para configurar el bot debemos abrir SciTE Script Editor y abrir el script del bot.
+
+**Las instrucciones de AutoIt que utilizaremos para configurar el BOT son las siguientes:**
 
 **MouseClick("TipoDeClic", Xcoord , Ycoord , clics)**: Esta instruccion moueve el cursor hacia un punto en especifico de la pantalla y hace clic derecho o izquierdo el numero de veces que le indiquemos. Con el ejemplo **MouseClick("left",1268,176,1)** hara clic izquierdo una sola vez sobre las coordenadas x:1268 y y:176.
 
@@ -79,7 +81,8 @@ Desde la esquina superior izquierda de la pantalla hacia la derecha son coordena
 
 **ClipPut(variable)**: Esta instruccion permite al bot copiar en el portapales el contenido que tengamos en cualquier variable. Con el ejemplo **ClipPut($fileName)** el bot copiara al portapeles el contenido que halla en la variable **$fileName**.
 
-###### Las variables que necesitaremos configurar en el BOT son las siguientes:
+
+**Las variables que necesitaremos configurar en el BOT son las siguientes:**
 Una variable es un dato que puede almacenar numeros, texto, entre otros.
 
 **$start**: Esta variable almacena el numero del primer nft que vamos a subir.
@@ -108,16 +111,18 @@ En el siguiente ejemplo los datos de mis variables para el ejemplo seran los sig
 
 **$name**: "Color Burger #" es el nombre de mis nfts, mis nfts en opensea estan nombrados con el Name seguidos por el numero, como este dato es texto debe ir entre comillas simples.
 
-**$externalLink**: "https://twitter.com/_TxominArt_" es el link externo que deceo que se enlaze a mi nft, en este caso el enlace a mi twitter, esto es opional por lo que si no deceamos poner ninguno solo dejaemos las comillas simples, como este dato es texto debe ir entre comillas simples.
+**$externalLink**: "[https://twitter.com/_TxominArt_](https://twitter.com/_TxominArt_)" es el link externo que deceo que se enlaze a mi nft, en este caso el enlace a mi twitter, esto es opional por lo que si no deceamos poner ninguno solo dejaemos las comillas simples, como este dato es texto debe ir entre comillas simples.
 
 ![image](https://user-images.githubusercontent.com/91817247/135900848-ea6c0ca8-343a-49e9-aeb2-51831d9a60aa.png)
 
 **$description**: "Color Burger #" en mi caso la descripcion de mi nft es el nombre seguido por el numero, esto es opional por lo que si no deceamos poner ninguno solo dejaemos las comillas simples, como este dato es texto debe ir entre comillas simples.
 
+Por que el bot para mi tendra esta configuracion:
+
 ![image](https://user-images.githubusercontent.com/91817247/135897454-5bd70e22-9cb3-4906-b1c9-4328448684b0.png)
 
 
-###### Lo siguiente que haremos es ir a la coleccion en la cual deseamos subir los NFTs
+**Lo siguiente que haremos es ir a la coleccion en la cual deseamos subir los NFTs**
 
 ![image](https://user-images.githubusercontent.com/91817247/135760300-f50c5020-0eca-4c50-beca-db25111b0659.png)
 
@@ -133,8 +138,7 @@ Otro boton que debemos de configurar es el "Upload file", lo haremos de la misma
 
 ![image](https://user-images.githubusercontent.com/91817247/135765306-32f08b93-d67b-4717-9a17-8023afe3e693.png)
 
-Estas coordenadas deberan ser introducidas en el script del bot, las instrucciones que debemos modificar son relacionadas con el manejo del cursor.
-Para esto debemos abrir SciTE Script Editor y abrir el script del bot.
+Estas coordenadas deberan ser introducidas en el script del bot, las instrucciones que debemos modificar son relacionadas con el manejo del cursor (MouseClick).
 
 Una vez dentro la intrucciona a modificar sera la siguiente.
 
