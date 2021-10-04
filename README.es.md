@@ -66,7 +66,7 @@ Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro men
 ## Descarga del BOT
 
 ## Configuracion del BOT
-######Las instrucciones de AutoIt que utilizaremos para configurar el BOT son las siguientes:
+###### Las instrucciones de AutoIt que utilizaremos para configurar el BOT son las siguientes:
 
 **MouseClick("TipoDeClic", Xcoord , Ycoord , clics)**: Esta instruccion moueve el cursor hacia un punto en especifico de la pantalla y hace clic derecho o izquierdo el numero de veces que le indiquemos. Con el ejemplo **MouseClick("left",1268,176,1)** hara clic izquierdo una sola vez sobre las coordenadas x:1268 y y:176.
 
@@ -79,20 +79,45 @@ Desde la esquina superior izquierda de la pantalla hacia la derecha son coordena
 
 **ClipPut(variable)**: Esta instruccion permite al bot copiar en el portapales el contenido que tengamos en cualquier variable. Con el ejemplo **ClipPut($fileName)** el bot copiara al portapeles el contenido que halla en la variable **$fileName**.
 
-######Las variables que necesitaremos configurar en el BOT son las siguientes:
+###### Las variables que necesitaremos configurar en el BOT son las siguientes:
+Una variable es un dato que puede almacenar numeros, texto, entre otros.
 
-**$start**:
-**$end**:
-**$price**:
-**$fileName**:
-**$name**:
-**$externalLink**:
-**$description**:
+**$start**: Esta variable almacena el numero del primer nft que vamos a subir.
+
+**$end**: Esta variable almacena el numero del ultimo nft que vamos a subir.
+
+**$price**: Esta variable almacena el precio del nft.
+
+**$fileName**: Esta variable almacena el nombre del archivo que vamos a subir.
+
+**$name**: Esta variable almacena el nombre del nft que se mostrara en opensea.
+
+**$externalLink**: Esta variable almacena el link externo que podemos enlazar al nft en opensea
+
+**$description**: Esta variable almacena la decripcion del nft que se mostrara en opensea.
+
+En el siguiente ejemplo los datos de mis variables para el ejemplo seran los siguientes:
+
+**$start**: 1351 es el numero del primer nft que voy a subir, tambien sera el numero de los siguientes nfts que el bot subira en cada repeticion por lo que final de cada repeticion el bot incrementara este numero en 1.
+
+**$end**: 2401 es el numero del ultimo nft que voy a subir.
+
+**$price**: 0.001 es el precio de cada nft.
+
+**$fileName**: "Color_Burger_#" es el nombre de mis nfts, mis nfts estan nombrados con el fileName seguidos por el numero, como este dato es texto debe ir entre comillas simples.
+
+**$name**: "Color Burger #" es el nombre de mis nfts, mis nfts en opensea estan nombrados con el Name seguidos por el numero, como este dato es texto debe ir entre comillas simples.
+
+**$externalLink**: "https://twitter.com/_TxominArt_" es el link externo que deceo que se enlaze a mi nft, en este caso el enlace a mi twitter, esto es opional por lo que si no deceamos poner ninguno solo dejaemos las comillas simples, como este dato es texto debe ir entre comillas simples.
+
+![image](https://user-images.githubusercontent.com/91817247/135900848-ea6c0ca8-343a-49e9-aeb2-51831d9a60aa.png)
+
+**$description**: "Color Burger #" en mi caso la descripcion de mi nft es el nombre seguido por el numero, esto es opional por lo que si no deceamos poner ninguno solo dejaemos las comillas simples, como este dato es texto debe ir entre comillas simples.
 
 ![image](https://user-images.githubusercontent.com/91817247/135897454-5bd70e22-9cb3-4906-b1c9-4328448684b0.png)
 
 
-######Lo siguiente que haremos es ir a la coleccion en la cual deseamos subir los NFTs
+###### Lo siguiente que haremos es ir a la coleccion en la cual deseamos subir los NFTs
 
 ![image](https://user-images.githubusercontent.com/91817247/135760300-f50c5020-0eca-4c50-beca-db25111b0659.png)
 
