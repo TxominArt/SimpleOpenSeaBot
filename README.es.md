@@ -66,6 +66,15 @@ Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro men
 ## Descarga del BOT
 
 ## Configuracion del BOT
+Las instrucciones de AutoIt que utilizaremos para configurar el BOT son las siguientes:
+
+**MouseClick("left",1268,176,1)**
+**Sleep(5000)**
+**Send("{TAB}")ClipPut(#fileName)**
+**Send("^v")**
+**Send($start)**
+**Send("{ENTER}")**
+
 Lo primero que haremos es ir a la coleccion en la cual deseamos subir los NFTs
 
 ![image](https://user-images.githubusercontent.com/91817247/135760300-f50c5020-0eca-4c50-beca-db25111b0659.png)
@@ -87,7 +96,7 @@ Para esto debemos abrir SciTE Script Editor y abrir el script del bot.
 
 Una vez dentro la intrucciona a modificar sera la siguiente.
 
-![image](https://user-images.githubusercontent.com/91817247/135765485-f600a319-778f-41fe-bdb9-00b987518eb9.png)
+![image](https://user-images.githubusercontent.com/91817247/135891653-dbf9d9c4-4a0d-4e67-b748-e0343a9796ab.png)
 
 
 
