@@ -66,16 +66,33 @@ Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro men
 ## Descarga del BOT
 
 ## Configuracion del BOT
-Las instrucciones de AutoIt que utilizaremos para configurar el BOT son las siguientes:
+######Las instrucciones de AutoIt que utilizaremos para configurar el BOT son las siguientes:
 
-**MouseClick("left",1268,176,1)**
-**Sleep(5000)**
-**Send("{TAB}")ClipPut(#fileName)**
-**Send("^v")**
-**Send($start)**
-**Send("{ENTER}")**
+**MouseClick("TipoDeClic", Xcoord , Ycoord , clics)**: Esta instruccion moueve el cursor hacia un punto en especifico de la pantalla y hace clic derecho o izquierdo el numero de veces que le indiquemos. Con el ejemplo **MouseClick("left",1268,176,1)** hara clic izquierdo una sola vez sobre las coordenadas x:1268 y y:176.
 
-Lo primero que haremos es ir a la coleccion en la cual deseamos subir los NFTs
+Desde la esquina superior izquierda de la pantalla hacia la derecha son coordenadas en X y hacia abajo son coordnadas en Y, por lo tanto la esquina superior izquierda seria la coordnada 0,0 mientras que la esquina inferior derecha seria la coordenada 1920,1080 en un monitor de resolucion 1080p
+![image](https://user-images.githubusercontent.com/91817247/135895289-7f6f09b8-ba42-4aa3-9eb4-71e300fdd5d9.png)
+
+**Sleep(Mlisegundos)**: Esta instruccion permite que el bot haga una pausa dada en milisegundos. Con el ejemplo **Sleep(5000)** el bot hara una pausa de 5 segundos
+
+**Send("Tecla/Texto/Variable")**: Esta funciona permite que el bot simule que estamos escribiendo con el teclado, puede escribir el texto que nosotros queramos, comandos del teclado o incluso variables. Con el ejemplo **Send("{TAB}")** el bot hara la funcion de la tecla **TAB**, con **Send("{ENTER}")** el de la tecla **ENTER**, con **Send("^v")** haremos el el bot haga **CTRL+V** para pegar lo que tengamos en el portapapeles, con **Send($start)** haremos que el bot escriba el contenido que tenga la variable **$start**, con **Send("Cualquier texto")** haremos que el bot escriba literalmente **Cualquier tecto**.
+
+**ClipPut(variable)**: Esta instruccion permite al bot copiar en el portapales el contenido que tengamos en cualquier variable. Con el ejemplo **ClipPut($fileName)** el bot copiara al portapeles el contenido que halla en la variable **$fileName**.
+
+######Las variables que necesitaremos configurar en el BOT son las siguientes:
+
+**$start**:
+**$end**:
+**$price**:
+**$fileName**:
+**$name**:
+**$externalLink**:
+**$description**:
+
+![image](https://user-images.githubusercontent.com/91817247/135897454-5bd70e22-9cb3-4906-b1c9-4328448684b0.png)
+
+
+######Lo siguiente que haremos es ir a la coleccion en la cual deseamos subir los NFTs
 
 ![image](https://user-images.githubusercontent.com/91817247/135760300-f50c5020-0eca-4c50-beca-db25111b0659.png)
 
