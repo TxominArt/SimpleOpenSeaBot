@@ -232,14 +232,20 @@ Para detener el bot o pausarlo debemos dar clic en el icono de AutoIt que aparec
 
 
 ## Notas adicionales
+La velocidad con la que se suben los NFTs depoende de el rendimiento de nuestra PC y de la calidad de nustra conexion a intenert ya que enton influye a que los tiempos de carga sean mas o menos cortos.
+
 Utilizando los mismos principios con los que configurmos el Bot para OpenSea, en teoria, podemos configurarlo para cualquier mercado de NFTs, solo necesitamos adaptar las condiguraciones para que se adapten a las peculiaridades de cada mercado.
 
 Lamentablemente AutoIt solo esta disponible para plataformas windows pero actualmente estoy trabajando en una version de python que funcione sobre cualquier sistema operativo, mantente al pendiente de mis redes sociales, las cuales te dejo mas abajo, mas enterarte sobre cuando estara disponible.
 
+Anexo la documentacion oficial de AutoIt por si deseas explorar esta herramienta https://www.autoitscript.com/autoit3/docs/
+
 ## Agradecimientos
 Por favor comparte y deja tu estrella ⭐
 
-Si te parecio util invitame una cerveza 🍺 y una pizza 🍕 , aqui te dejo mi direccion de ethereum : **0xb3351B9f0A06CF1E847DD6d5c9aE527182763d40**
+Si te parecio util invitame una cerveza 🍺 y una pizza 🍕 , aqui te dejo mi direccion de Ethereum : **0xb3351B9f0A06CF1E847DD6d5c9aE527182763d40**
+
+Tambien te dejo mi correo de Bitso por di deceas enviarme alguna cripto: **lamosgm97@gmail.com**
 
 O bien puedes adquirir algunos de mis NFTs en OpenSea o envirme algunos, mi perfil es [TxominArt](https://opensea.io/TxominArt) Y mis colecciones son:
 
@@ -254,6 +260,14 @@ O bien puedes adquirir algunos de mis NFTs en OpenSea o envirme algunos, mi perf
 Sientete libre de hacer una oferta por el NFT que mas te guste.
 
 Tambien puedes apoyarme adquiriendo el [NFT de este BOT en OpenSea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81057833425676745311725378463755140867922759158574626972484691336700096413697)
+
+Ademas te dejo mis links de referido de Opensea, Binance y Bitso:
+
+**opensea**: https://opensea.io?ref=0xb3351b9f0a06cf1e847dd6d5c9ae527182763d40
+
+**Binance**: https://accounts.binance.com/es-MX/register?ref=73006333     **ID**: 73006333
+
+**Bitso**: https://bitso.com/register?ref=vipdo
 
 Tambien te dejo mis redes sociales:
 
