@@ -81,6 +81,8 @@ Desde la esquina superior izquierda de la pantalla hacia la derecha son coordena
 
 **ClipPut(variable)**: Esta instruccion permite al bot copiar en el portapales el contenido que tengamos en cualquier variable. Con el ejemplo **ClipPut($fileName)** el bot copiara al portapeles el contenido que halla en la variable **$fileName**.
 
+**MouseWheel("Direccion",cantidad)**: Esta instrucion nos permitira simular la rueda del raton. Con el ejemplo **MouseWheel("down",20)** el bot girara 20 veces la rueda del raton hacia abajo.
+
 
 **Las variables que necesitaremos configurar en el BOT son las siguientes:**
 Una variable es un dato que puede almacenar numeros, texto, entre otros.
@@ -134,16 +136,65 @@ Para poder hacer hacer esto debemos tomar una captura de pantalla de opensea ase
 
 ![image](https://user-images.githubusercontent.com/91817247/135761329-cbfedc0e-69f1-4b99-9dbf-06b2f5365184.png)
 
-Otro boton que debemos de configurar es el "Upload file", lo haremos de la misma manera que el boton de "Add Item".
+Otros botones que debemos de configurar son el boton "Upload file" y el boton "Create" lo haremos de la misma manera que el boton de "Add Item".
 
 ![image](https://user-images.githubusercontent.com/91817247/135765306-32f08b93-d67b-4717-9a17-8023afe3e693.png)
 
-Estas coordenadas deberan ser introducidas en el script del bot, las instrucciones que debemos modificar son relacionadas con el manejo del cursor (MouseClick).
+El boton "Create" es un poco especial ya que en la mayoria de los casos debemos hacer girar la rueda del raton para desplazarnos hacia abajo y poder visualizar el boton, por lo que debemos bajar lo mas que podamos y obtenber sus coordenadas.
 
-Una vez dentro la intrucciona a modificar sera la siguiente.
+![image](https://user-images.githubusercontent.com/91817247/136063982-dd069d27-1add-4b71-adce-9e917140bbf5.png)
 
-![image](https://user-images.githubusercontent.com/91817247/135891653-dbf9d9c4-4a0d-4e67-b748-e0343a9796ab.png)
+Estas coordenadas deberan ser introducidas en el script del bot, las instrucciones que debemos modificar son relacionadas con el manejo del cursor (MouseClick), concretamente debemos introducir las coordenadas obtenidas anteriormente en los espacios correspondentes a las coordenada X y la coordenada Y.
 
+La instruccion a modificar para el boton "Add Item" sera la siguiente:
+
+![image](https://user-images.githubusercontent.com/91817247/136060964-bcd0254e-657e-444d-9ee7-c6bd6551f1e5.png)
+
+La instruccion a modificar para el boton "Upload file" sera la siguiente:
+
+![image](https://user-images.githubusercontent.com/91817247/136061194-1f98d938-823c-46e2-853d-67da39fd057a.png)
+
+La instruccion a modificar para el boton "Create" sera la siguiente:
+
+![image](https://user-images.githubusercontent.com/91817247/136066003-744aa869-11f6-4a44-9ffc-81162d9cdca2.png)
+
+en este caso debemos de modificar una instruccion aicional para el boton "Create", esto debido a que el texto de descripcion puede generar conflicto con la rueda del raton, por lo que debemos dar clic en un espacio vacio, cualquiera de los marcados es buena opcion:
+
+![image](https://user-images.githubusercontent.com/91817247/136065741-20344577-45c1-4fe3-89f8-93506d928b57.png)
+
+La instruccion a modificar es la siguiente:
+
+![image](https://user-images.githubusercontent.com/91817247/136066413-df907fb8-8f06-4294-9552-e6927510dcba.png)
+
+
+Debemos de repetir el proceso para cada uno de los botones de OpenSea implicados en la a acuñacion y en el listado del NFT. Los botones a configurar son los siguientes:
+
+1. Boton "Add Item"
+2. Boton "Upload file"
+3. Boton "Create"
+4. Seleccion de espacion vacio
+5. Boton "Cerrar notificacion de acuñado"
+6. Boton "Favorito"
+7. Boton "Sell"
+8. Boton "Complete listing"
+9. Boton "Sign"
+10. Boton "Sign" en metamask
+11. Boton "Cerrar notificacion de listado"
+12. Nombre de la coleccion
+
+![image](https://user-images.githubusercontent.com/91817247/136066899-e91eac0f-650f-4f0a-b8de-a547673fa4fa.png)
+
+![image](https://user-images.githubusercontent.com/91817247/136067129-71270c2a-a821-4bec-bec6-66cd55e90d9f.png)
+
+![image](https://user-images.githubusercontent.com/91817247/136067970-f91d759c-e1c7-4402-b660-e58e01a79d5e.png)
+
+![image](https://user-images.githubusercontent.com/91817247/136068888-e7148072-0ca3-4c0f-beb0-985006634001.png)
+
+![image](https://user-images.githubusercontent.com/91817247/136069348-baa6125e-7414-400d-bcbc-30f1bc86d0d4.png)
+
+![image](https://user-images.githubusercontent.com/91817247/136069449-88f320c2-2203-497f-a2f2-01a5b3a2a8c5.png)
+
+![image](https://user-images.githubusercontent.com/91817247/136069591-2320e88d-27fb-4045-abe5-e93253228606.png)
 
 
 ## Ejecucion del BOT
