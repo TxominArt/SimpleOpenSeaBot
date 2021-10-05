@@ -166,21 +166,25 @@ La instruccion a modificar es la siguiente:
 
 ![image](https://user-images.githubusercontent.com/91817247/136066413-df907fb8-8f06-4294-9552-e6927510dcba.png)
 
+Tambien debemos ajustar la cantidad de vueltas que dara el raton para bajar asta el boton "Create", esto se ajusta en la siguiente linea cambiando la canidad de vueltas, en el ejemplo son 20 pero debe ser ajustado de manera particular:
 
-Debemos de repetir el proceso para cada uno de los botones de OpenSea implicados en la a acuñacion y en el listado del NFT. Los botones a configurar son los siguientes:
+![image](https://user-images.githubusercontent.com/91817247/136071544-08375164-b47a-4bcd-90cc-d7da4a85fc4e.png)
 
-1. Boton "Add Item"
-2. Boton "Upload file"
-3. Boton "Create"
-4. Seleccion de espacion vacio
-5. Boton "Cerrar notificacion de acuñado"
-6. Boton "Favorito"
-7. Boton "Sell"
-8. Boton "Complete listing"
-9. Boton "Sign"
-10. Boton "Sign" en metamask
-11. Boton "Cerrar notificacion de listado"
-12. Nombre de la coleccion
+
+Debemos de repetir el proceso para cada uno de los botones de OpenSea implicados en la a acuñacion y en el listado del NFT. Los botones a configurar y sus respectivas lineas en el archivo del bot se listan a continuacion:
+
+1. Boton "Add Item", linea 16
+2. Boton "Upload file", linea 19
+3. Boton "Create", linea 48
+4. Seleccion de espacion vacio, linea 44
+5. Boton "Cerrar notificacion de acuñado", linea 51
+6. Boton "Favorito", linea 56
+7. Boton "Sell", linea 61
+8. Boton "Complete listing", linea 66
+9. Boton "Sign", linea 69
+10. Boton "Sign" en metamask, linea 71
+11. Boton "Cerrar notificacion de listado", linea 73
+12. Nombre de la coleccion, linea 78
 
 ![image](https://user-images.githubusercontent.com/91817247/136066899-e91eac0f-650f-4f0a-b8de-a547673fa4fa.png)
 
