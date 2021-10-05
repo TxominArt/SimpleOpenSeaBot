@@ -201,7 +201,35 @@ Debemos de repetir el proceso para cada uno de los botones de OpenSea implicados
 ![image](https://user-images.githubusercontent.com/91817247/136069591-2320e88d-27fb-4045-abe5-e93253228606.png)
 
 
+En cuanto a las instrucciones "Sleep", debemos ajustarlas segun nustra PC o nustra conexion a intener nos lo permita, cada "Sleep" hace una pausa para permitir a opensea cargar las paginas y ventanas que se nos muestran durante todo el proceso, para esto debemos subir varios NFTs de manera manual y medir los tiempos de cargar para ajustarlos en el Bot, recuerda que el tiempo introducido en "Sleep" debe estar en milisegundos.
+
 ## Ejecucion del BOT
+Una vez configurado el Bot debemos ir a nuestra coleccion en Opensea, haremos clc en el boton "Add item" y firmaremos lo que nos pide, despues haremos clic en el boton "Upload file" y subiremos cualquier archivo de nuestra coleccion, una ves realizado esto podemos volver a la coleccion.
+
+Hicimos lo anterior ya que cada vez que ingresamos a opensea y subimos un NFT son pide firmar solo una vez antes de permitirnos continuar con el proceso y subimos un archivo para establecer la ruta desde la que el bot subira los archivos.
+
+Tambien debemos abrir cualquier NFT y marcarlo como favorito ya que tambien opensea nos pedira firmar una sola vez antes de poder marcar como favoritos todos los NFts que queramos.
+
+Tambien podemos subir un NFT de manera manual para hacer todo el proceso y firmar lo anterior, cualuiqera de los dos procesos sirve.
+
+Bebemos posicionarnos nuevamente en la coleccion de los NFTs que vamos a subir:
+
+![image](https://user-images.githubusercontent.com/91817247/136074828-05e783d6-9cc0-43cc-a055-d29876843942.png)
+
+A coontinuacion solo nos faltar ejecutar el bot, para esto debemos ejecutar AutoIt dando clic en el icono  "Run Script" ya sea el de "x86" para sistemas de 32 bits o el "x64" para sistemas de 64 bits.  
+
+![image](https://user-images.githubusercontent.com/91817247/136073785-84d78470-6724-499e-aa87-65cb10260d0d.png)
+
+Se nos abrira ua ventana que nos pedira selecionar el script del bot, seleccionamos el scrpt y damos en "Abrir" y el bot comenzara a ejecutarse
+
+![image](https://user-images.githubusercontent.com/91817247/136074684-3de97273-e1e5-43b1-b716-0397a2eedd29.png)
+
+Una vez inciada la ejecucion es importante no mover el raton ni precionar el teclado ya que podemos generar errores en la ejecucion del bot.
+
+Para detener el bot o pausarlo debemos dar clic en el icono de AutoIt que aparece un nuestra barra de tareas:
+
+![image](https://user-images.githubusercontent.com/91817247/136075836-d3f473ff-7e4d-4138-a3a7-e3a701090973.png)
+
 
 ## Notas adicionales
 Utilizando los mismos principios con los que configurmos el Bot para OpenSea, en teoria, podemos configurarlo para cualquier mercado de NFTs, solo necesitamos adaptar las condiguraciones para que se adapten a las peculiaridades de cada mercado.
