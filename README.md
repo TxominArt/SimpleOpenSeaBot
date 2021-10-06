@@ -252,7 +252,7 @@ To stop the bot or pause it, we must click on the AutoIt icon that appears on ou
 ## Additional notes
 The speed with which the NFTs are uploaded depends on the performance of our PC and the quality of our connection to the Internet since then it influences the loading times to be more or less short.
 
-Using the same principles with which we configure the Bot for OpenSea, in theory, we can configure it for any NFTs market, we only need to adapt the configurations to adapt to the peculiarities of each market.
+Using the same principles with which we configure the Bot for OpenSea, in theory, we can configure it for any NFT market, we only need to adapt the configurations to adapt to the peculiarities of each market. The same would happen to use a network other than polygon and even wallets other than Metamask.
 
 Unfortunately AutoIt is only available for windows platforms but I am currently working on a version of python that works on any operating system, keep an eye on my social networks, which I leave below, more find out about when it will be available.
 
