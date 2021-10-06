@@ -278,7 +278,7 @@ Either you can buy some of my NFTs in OpenSea or send me some, my profile is [Tx
 
 Feel free to bid on the NFT that you like best.
 
-You can also support me acquiring the [NFT of this BOT in OpenSea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/8105783342567674531172537846375514086792275924138574626)
+You can also support me acquiring the [NFT of this BOT in OpenSea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81057833425676745311725378463755140867922759158574626972484691336700096413697)
 
 Also I leave you my referral links from Opensea, Binance and Bitso:
 
