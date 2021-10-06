@@ -23,43 +23,43 @@ SimpleOpenSeaBot es un bot para publicar colecciones masivas en OpenSea, el bot 
 AutoIt es una herramienta que permite automatizar tareas repetititvas de manera simple con muy pocas lineas de codigo. Lamentablemente AutoIt solo esta disponible para el sistema operativo windows pero actualmente estoy trabajando en una version de python que funcione sobre cualquier sistema operativo, mantente al pendiente de mis redes sociales, las cuales te dejo mas abajo 👇, para enterarte sobre cuando estara disponible.
 
 ## Descarga e instalacion de AutoIt
-Para descargar AutoIt lo primero que debemos hacer es ir a su pagina oficial [www.https://www.autoitscript.com/](https://www.autoitscript.com/site/autoit/downloads/) a la seccion de descargas. Bajaremos hasta localizar la siguiente seccion llamada "AutoIt Full Installation" en la cual daremos clic sobre el boton "Download Autoit" localizado a la derecha
+Para descargar AutoIt lo primero que debemos hacer es ir a su pagina oficial [www.https://www.autoitscript.com/](https://www.autoitscript.com/site/autoit/downloads/) a la seccion de descargas. Bajaremos hasta localizar la siguiente seccion llamada "AutoIt Full Installation" en la cual daremos clic sobre el boton "Download Autoit" localizado a la derecha.
 
 ![image](https://user-images.githubusercontent.com/91817247/135742752-2a2e4241-013e-4b1e-abe6-af3fe49f7c49.png)
 
-Una vez finalizada la descarga debemos ejecutar el archivo .exe que se descargo, nos habrira el asistente de instalacion de AutoIt en el cual daremos clic en "Next"
+Una vez finalizada la descarga debemos ejecutar el archivo .exe que se descargo, nos habrira el asistente de instalacion de AutoIt en el cual daremos clic en "Next".
 
 ![image](https://user-images.githubusercontent.com/91817247/135743080-2ae56d4c-b105-450b-827e-0146c3cfa1c7.png)
 
-Damos clic en "I Agree" para aceptar el acuerdo de licencia(El cual estoy seguro que leeras antes) de AutoIt
+Damos clic en "I Agree" para aceptar el acuerdo de licencia(El cual estoy seguro que leeras antes) de AutoIt.
 
 ![image](https://user-images.githubusercontent.com/91817247/135743161-4c856086-e1aa-4bf7-94e9-039cafecea01.png)
 
-En la siguinte ventana damos clic en "Next"
+En la siguiente ventana damos clic en "Next".
 
 ![image](https://user-images.githubusercontent.com/91817247/135757617-8ac6245e-270b-43e9-be24-770370c74ca4.png)
 
-En esta ventana seleccionaremos que queremos que suceda cuando damos doble clic en un scrpt de AutoIt, ya sea que se ejecute o que se abra para editar, en mi caso deseo que ocura lo segundo por lo tanto seleccionare la segynda opcion "Edit the script" y dare clic en "Next"
+En esta ventana seleccionaremos que queremos que suceda cuando damos doble clic en un scrpt de AutoIt, ya sea que se ejecute o que se abra para editar, en mi caso deseo que ocura lo segundo por lo tanto seleccionare la segynda opcion "Edit the script" y dare clic en "Next".
 
 ![image](https://user-images.githubusercontent.com/91817247/135757682-fc4384c5-c5cd-4993-95e0-b9e48e8c52d8.png)
 
-Aqui dejaremos seleccionada por defecto la intallacion completa o "Full" y daremos clic en "Next"
+Aqui dejaremos seleccionada por defecto la intallacion completa o "Full" y daremos clic en "Next".
 
 ![image](https://user-images.githubusercontent.com/91817247/135757719-22b3be06-ea35-4a39-a25a-62aaef1c9711.png)
 
-Seleccionamos el lugar donde donde queremos que se instale AutoIt, en mi caso lo dejare por defecto, daremos clic en "Next"
+Seleccionamos el lugar donde donde queremos que se instale AutoIt, en mi caso lo dejare por defecto, daremos clic en "Next".
 
 ![image](https://user-images.githubusercontent.com/91817247/135757738-cc5e0459-eea3-4dfc-b212-69ff8f486f0f.png)
 
-En esta ventana comenzara la instalacion de AutoIt, una barra verdenos mostrara el progreso, debemos esperar a que la barra se llene por completo para que la instalacion termine
+En esta ventana comenzara la instalacion de AutoIt, una barra verdenos mostrara el progreso, debemos esperar a que la barra se llene por completo para que la instalacion termine.
 
 ![image](https://user-images.githubusercontent.com/91817247/135757770-18550a37-857a-4243-82c5-9f44c1734ce2.png)
 
-Una vez llena la barra nos mostrara la siguiente ventana, en mi caso desmarcare la casilla "Show update notes" ya que no deseo ver las notas de la nueva version, daremos clic en "Finish"
+Una vez llena la barra nos mostrara la siguiente ventana, en mi caso desmarcare la casilla "Show update notes" ya que no deseo ver las notas de la nueva version, daremos clic en "Finish".
 
 ![image](https://user-images.githubusercontent.com/91817247/135757812-e8a48b6f-d32f-4bb1-91e1-b27d7ed8c64d.png)
 
-Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro menu de inicio encontramos tres iconos de AutoIt, el primero nos permitira crear o editar scripts, en cuanto al segundo y al tercero nos permitiran ejecutar scripts ya sea en entornos de 32 bits o de 64 bits respectivamente segun sea el caso de nuestra PC🖥️
+Por fin la instalacion de AutoIt esta completa, podemos notar que en nuestro menu de inicio encontramos tres iconos de AutoIt, el primero nos permitira crear o editar scripts, en cuanto al segundo y al tercero nos permitiran ejecutar scripts ya sea en entornos de 32 bits o de 64 bits respectivamente segun sea el caso de nuestra PC🖥️.
 
 ![image](https://user-images.githubusercontent.com/91817247/135759150-e7395dd8-33ad-42e6-a065-2f19ddc670e6.png)
 
@@ -72,10 +72,11 @@ Para configurar el bot debemos abrir SciTE Script Editor y abrir el script del b
 
 **MouseClick("TipoDeClic", Xcoord , Ycoord , clics)**: Esta instruccion moueve el cursor hacia un punto en especifico de la pantalla y hace clic derecho o izquierdo el numero de veces que le indiquemos. Con el ejemplo **MouseClick("left",1268,176,1)** hara clic izquierdo una sola vez sobre las coordenadas x:1268 y y:176.
 
-Desde la esquina superior izquierda de la pantalla hacia la derecha son coordenadas en X y hacia abajo son coordnadas en Y, por lo tanto la esquina superior izquierda seria la coordnada 0,0 mientras que la esquina inferior derecha seria la coordenada 1920,1080 en un monitor de resolucion 1080p
+Desde la esquina superior izquierda de la pantalla hacia la derecha son coordenadas en X y hacia abajo son coordnadas en Y, por lo tanto la esquina superior izquierda seria la coordnada 0,0 mientras que la esquina inferior derecha seria la coordenada 1920,1080 en un monitor de resolucion 1080p.
+
 ![image](https://user-images.githubusercontent.com/91817247/135895289-7f6f09b8-ba42-4aa3-9eb4-71e300fdd5d9.png)
 
-**Sleep(Mlisegundos)**: Esta instruccion permite que el bot haga una pausa dada en milisegundos. Con el ejemplo **Sleep(5000)** el bot hara una pausa de 5 segundos
+**Sleep(Mlisegundos)**: Esta instruccion permite que el bot haga una pausa dada en milisegundos. Con el ejemplo **Sleep(5000)** el bot hara una pausa de 5 segundos.
 
 **Send("Tecla/Texto/Variable")**: Esta funciona permite que el bot simule que estamos escribiendo con el teclado, puede escribir el texto que nosotros queramos, comandos del teclado o incluso variables. Con el ejemplo **Send("{TAB}")** el bot hara la funcion de la tecla **TAB**, con **Send("{ENTER}")** el de la tecla **ENTER**, con **Send("^v")** haremos el el bot haga **CTRL+V** para pegar lo que tengamos en el portapapeles, con **Send($start)** haremos que el bot escriba el contenido que tenga la variable **$start**, con **Send("Cualquier texto")** haremos que el bot escriba literalmente **Cualquier tecto**.
 
@@ -85,7 +86,10 @@ Desde la esquina superior izquierda de la pantalla hacia la derecha son coordena
 
 
 **Las variables que necesitaremos configurar en el BOT son las siguientes:**
+
 Una variable es un dato que puede almacenar numeros, texto, entre otros.
+
+En AutoIt todas las variables comienzan con un **$** seguido por el nombre de la variable.
 
 **$start**: Esta variable almacena el numero del primer nft que vamos a subir.
 
@@ -173,18 +177,18 @@ Tambien debemos ajustar la cantidad de vueltas que dara el raton para bajar asta
 
 Debemos de repetir el proceso para cada uno de los botones de OpenSea implicados en la a acuñacion y en el listado del NFT. Los botones a configurar y sus respectivas lineas en el archivo del bot se listan a continuacion:
 
-1. Boton "Add Item", linea 16
-2. Boton "Upload file", linea 19
-3. Boton "Create", linea 48
-4. Seleccion de espacion vacio, linea 44
-5. Boton "Cerrar notificacion de acuñado", linea 51
-6. Boton "Favorito", linea 56
-7. Boton "Sell", linea 61
-8. Boton "Complete listing", linea 66
-9. Boton "Sign", linea 69
-10. Boton "Sign" en metamask, linea 71
-11. Boton "Cerrar notificacion de listado", linea 73
-12. Nombre de la coleccion, linea 78
+1. Boton "Add Item", linea 16.
+2. Boton "Upload file", linea 19.
+3. Boton "Create", linea 48.
+4. Seleccion de espacion vacio, linea 44.
+5. Boton "Cerrar notificacion de acuñado", linea 51.
+6. Boton "Favorito", linea 56.
+7. Boton "Sell", linea 61.
+8. Boton "Complete listing", linea 66.
+9. Boton "Sign", linea 69.
+10. Boton "Sign" en metamask, linea 71.
+11. Boton "Cerrar notificacion de listado", linea 73.
+12. Nombre de la coleccion, linea 78.
 
 ![image](https://user-images.githubusercontent.com/91817247/136066899-e91eac0f-650f-4f0a-b8de-a547673fa4fa.png)
 
@@ -240,6 +244,7 @@ Lamentablemente AutoIt solo esta disponible para plataformas windows pero actual
 
 Anexo la documentacion oficial de AutoIt por si deseas explorar esta herramienta https://www.autoitscript.com/autoit3/docs/
 
+
 ## Agradecimientos
 Por favor comparte y deja tu estrella ⭐
 
@@ -263,7 +268,7 @@ Tambien puedes apoyarme adquiriendo el [NFT de este BOT en OpenSea](https://open
 
 Ademas te dejo mis links de referido de Opensea, Binance y Bitso:
 
-**opensea**: https://opensea.io?ref=0xb3351b9f0a06cf1e847dd6d5c9ae527182763d40
+**Opensea**: https://opensea.io?ref=0xb3351b9f0a06cf1e847dd6d5c9ae527182763d40
 
 **Binance**: https://accounts.binance.com/es-MX/register?ref=73006333     **ID**: 73006333
 
