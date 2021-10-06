@@ -72,7 +72,7 @@ Para descargar el Bot debemos hacer clic en el boton "Code" y despues haremos cl
 
 ![image](https://user-images.githubusercontent.com/91817247/136246546-e96c1776-82be-47b0-9071-729323c71d76.png)
 
-Se decargara una archivo ZIP el cual debemos descomprimir, dentro hay una carpeta que contiene el archivo **SimpleOpenSeaBot.au3** el cual es el script del bot.
+Se decargara una archivo ZIP llamado **SimpleOpenSeaBot-main** el cual debemos descomprimir, dentro hay una carpeta que contiene el archivo **SimpleOpenSeaBot.au3** el cual es el script del bot.
 
 ![image](https://user-images.githubusercontent.com/91817247/136248318-e5e68976-f649-4822-a6ab-cbb18a00098b.png)
 
