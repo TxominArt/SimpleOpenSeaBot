@@ -24,6 +24,7 @@ func main()
    Send("{ENTER}")
    Sleep(2000)
    Send("{TAB}")
+   Send("{TAB}")
 
    ClipPut($name)
    Send("^v")
